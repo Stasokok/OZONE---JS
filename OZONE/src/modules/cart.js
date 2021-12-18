@@ -16,5 +16,5 @@ const cart = () => {
     cartClose.addEventListener('click', closeCart);
 };
 
-export default cart;
+export default cart
 
