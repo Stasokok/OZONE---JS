@@ -1,5 +1,5 @@
 const postData = () => {
-    return fetch('http://localhost:3000/goods', {
+    return fetch('https://test-6c7d2-default-rtdb.firebaseio.com/goods.json', {
         method: 'POST',
         body: JSON.stringify({
             title: "ffff",
