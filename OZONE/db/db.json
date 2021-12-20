@@ -3,6 +3,7 @@
     {
       "title": "Игровая приставка Sony PlayStation 4 Pro",
       "price": 33990,
+      "id": 0,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
@@ -11,6 +12,7 @@
     {
       "title": "Игровая приставка Sony PlayStation 3 Super Slim",
       "price": 16499,
+      "id": 1,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1027495663.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1028469540.jpg",
@@ -19,6 +21,7 @@
     {
       "title": "Игровая приставка Xbox One X",
       "price": 39990,
+      "id": 2,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1024358491.jpg",
       "category": "Игровая приставка"
@@ -26,6 +29,7 @@
     {
       "title": "Игровая приставка Xbox One S",
       "price": 23411,
+      "id": 3,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1024822131.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1024822128.jpg",
@@ -34,6 +38,7 @@
     {
       "title": "Игровая приставка Nintendo Switch",
       "price": 24751,
+      "id": 4,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1021386685.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1026072683.jpg",
@@ -42,6 +47,7 @@
     {
       "title": "Игровая приставка Sega Retro Genesis HD",
       "price": 3624,
+      "id": 5,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1024928305.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1024928306.jpg",
@@ -50,6 +56,7 @@
     {
       "title": "Игровая приставка Dendy Junior",
       "price": 1551,
+      "id": 6,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1021877092.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1021877092.jpg",
@@ -58,6 +65,7 @@
     {
       "title": "Игровая приставка Sony PlayStation Classic",
       "price": 10445,
+      "id": 7,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1025222877.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/102538227.jpg",
@@ -66,6 +74,7 @@
     {
       "title": "Клавиатура Logitech Wireless Keyboard K360",
       "price": 2390,
+      "id": 8,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1015518726.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/102518725.jpg",
@@ -74,6 +83,7 @@
     {
       "title": "Клавиатура Defender Element HB-195",
       "price": 566,
+      "id": 9,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1028488609.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1028488611.jpg",
@@ -82,6 +92,7 @@
     {
       "title": "Игровая клавиатура Steelseries Apex M750- RU",
       "price": 12848,
+      "id": 10,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1027006299.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1027006301.jpg",
@@ -90,6 +101,7 @@
     {
       "title": "Мышь + коврик A4Tech Bloody V7M+B-071",
       "price": 1649,
+      "id": 11,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1026202934.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1026202933.jpg",
@@ -98,6 +110,7 @@
     {
       "title": "Мышь Trust Varo",
       "price": 1097,
+      "id": 12,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1025117257.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1025117012.jpg",
@@ -106,6 +119,7 @@
     {
       "title": "Мышь Genius DX-120",
       "price": 350,
+      "id": 13,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1014472326.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1014472325.jpg",
@@ -114,6 +128,7 @@
     {
       "title": "Коврик для мыши Orico MPA9040",
       "price": 1279,
+      "id": 14,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1026748248.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1026748250.jpg",
@@ -122,6 +137,7 @@
     {
       "title": "Коврик для мыши Trust GXT 760 Glide RGB",
       "price": 4959,
+      "id": 15,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1025053907.jpg",
       "category": "Периферия для ПК"
@@ -129,6 +145,7 @@
     {
       "title": "Метро: Исход",
       "price": 1479,
+      "id": 16,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1026951535.jpg",
       "category": "Игры и софт"
@@ -136,6 +153,7 @@
     {
       "title": "Darksiders III. Коллекционное издание",
       "price": 3990,
+      "id": 17,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1023849642.jpg",
@@ -144,6 +162,7 @@
     {
       "title": "Mortal Kombat X",
       "price": 1076,
+      "id": 18,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1011627377.jpg",
       "category": "Игры и софт"
@@ -151,6 +170,7 @@
     {
       "title": "Microsoft Windows 10 Home (32/64-bit)",
       "price": 9412,
+      "id": 19,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1013975751.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1013975799.jpg",
@@ -159,6 +179,7 @@
     {
       "title": "1С:Предприятие 8.3. Версия для обучения программированию",
       "price": 560,
+      "id": 20,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1015773076.jpg",
       "category": "Игры и софт"
@@ -166,6 +187,7 @@
     {
       "title": "ABBYY FotoTranslate",
       "price": 805,
+      "id": 21,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1001559725.jpg",
       "category": "Игры и софт"
@@ -173,6 +195,7 @@
     {
       "title": "Destiny (Xbox 360)",
       "price": 723,
+      "id": 22,
       "sale": true,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1021419099.jpg",
       "category": "Игры и софт"
